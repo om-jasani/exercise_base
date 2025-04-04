@@ -22,6 +22,6 @@ The application processes and analyzes datasets through modular components:
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/your_username/modular_data_analysis_tool.git](https://github.com/om-jasani/exercise_base.git)
-   cd modular_data_analysis_tool
+   git clone https://github.com/om-jasani/exercise_base.git
+   cd exercise_base
 
